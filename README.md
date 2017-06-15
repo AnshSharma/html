@@ -1,2 +1,2 @@
-# HTML Snippets
-Just some cool HTML code snippets. To download them you'll have to first click on any link you want to open, and then click on "Raw". Finally, you just have to press "Ctrl+A" which will select your code and you then paste it in your favorite IDE and save the file.
+# Developing the front-end
+Code repository dedicated to HTML, CSS and jQuery. If you're getting started with web development and would like to learn these languages instead, you should check out the Wiki page at https://github.com/AnshSharma/html/wiki.
