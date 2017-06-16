@@ -8,10 +8,6 @@ Oh okay you're lost.
 
 To begin with, this is GitHub. It's just like Facebook. The slight difference is that I use Facebook to share images and status updates, while I use GitHub to share pieces of code. Specifically, when I write a program, I'll upload its code on GitHub so that you can learn from the code or you can modify and use that piece of code to create your own program. (Woohoo!)
 
-## What are Wiki pages?
-
-Wiki pages are the pages from which you're going to learn coding :)
-
 ## Setting things up
 
 **A curious learner:** Hey Ansh, I know a bit of basic HTML, can you help me learn more?
