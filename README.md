@@ -20,7 +20,6 @@ Hey curious learner, why not! Everyone wants to have a cool website (along with 
 
 You can try either [Notepad++](https://notepad-plus-plus.org/) or [Sublime Text](https://www.sublimetext.com/). I prefer to use Sublime Text for coding in HTML.
 
-### Get going:
+## Get going:
 
 [Getting started with Sublime Text &rarr;](https://github.com/AnshSharma/html/wiki/Getting-started-with-Sublime-Text)
-https://github.com/AnshSharma/html/wiki
